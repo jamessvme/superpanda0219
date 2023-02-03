@@ -1,13 +1,16 @@
 <p align="center">
   <a href="https://github.com/acehood0126"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Engineer;Accurate%20and%20Highly%20secure%20Blockchain%20developer;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
-<p align="center">
-  <img align="center" src="./pics/banner.png" style = "width: -webkit-fill-available;"/>
-</p>
+
 <h1 align="center">
 </h1>
 <p>
-&nbsp;Senior web2 & web3 engineer with over 3+ years of experience in web3 world and for 7+ years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from web2 stacks to combination of web2 & web3 stacks to improve web3 system performance which is the focus and the future of our life, so for now implemented <b>DApps</b>, <b>DeFi</b>, <b>NFT Marketplaces</b>, <b>NFT Mint Websites</b>, <b>Token Launchpads</b>. Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
+&nbsp;<b>Action-oriented</b> and <b>result-focused Senior Full Stack Developer</b> with
+8+ years of experience in web design and development across diverse
+industries.
+Highly motivated individual with <b>strong leadership</b> and <b>management
+skills </b> with extensive experience managing cross-functional teams.
+Have  <b>great learning attitudes</b> and always try to learn more and more.
 </p>
 
 ## Experienced Blockchain Networks
